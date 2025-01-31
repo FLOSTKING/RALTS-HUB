@@ -1,5 +1,5 @@
 repeat task.wait() until game:IsLoaded()
-_G.Start_Kaitun = false
+_G.Start_Kaitun = true
 _G.Config = true
 _G.Settings = {
 	Main = {
